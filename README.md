@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Project Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App]
+To clone this project, run the follow commands on your terminal
 
-## Available Scripts
+```sh
+git clone https://github.com/Nwoye-Ezekiel/risevest-test.git
+```
 
-In the project directory, you can run:
+navigate to the project's directory
 
-### `yarn start`
+```sh
+cd risevest-test
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Install all the project dependencies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```sh
+yarn install
+```
 
-### `yarn test`
+Start the development server to view the project on your browser
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+yarn start
+```
 
-### `yarn build`
+if your browser doesn't open by default after loading, open your browser and type this link.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`http://localhost:3000`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You are free to tweak the code to fit your own taste!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You can as well view the project which is hosted on [Netlify] by clicking on this link
+[Number Puzzle]
 
-### `yarn eject`
+# Project overwiew
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This is a technical assessment by Risevest which is to implement the landing page of the company. I ensured that the implementation was as pixel-perfect as possible. It has animations, is mobile and desktop responsive, and has a functional mobile navigation menu, among other things. It was an intriguing experience for me because I had to push myself to produce an outstanding work while also meeting the deadline.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[create react app]: https://create-react-app.dev
+[netlify]: https://www.netlify.com/
+[Number Puzzle]: https://number-slide-puzzle.netlify.app/
