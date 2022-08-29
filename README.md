@@ -4,13 +4,13 @@ This project was created with [Create React App]
 To clone this project, run the follow commands on your terminal
 
 ```sh
-git clone https://github.com/Nwoye-Ezekiel/risevest-test.git
+git clone https://github.com/Nwoye-Ezekiel/number-puzzle.git
 ```
 
 navigate to the project's directory
 
 ```sh
-cd risevest-test
+cd number-puzzle
 ```
 
 Install all the project dependencies
@@ -36,7 +36,7 @@ You can as well view the project which is hosted on [Netlify] by clicking on thi
 
 # Project overwiew
 
-This is a technical assessment by Risevest which is to implement the landing page of the company. I ensured that the implementation was as pixel-perfect as possible. It has animations, is mobile and desktop responsive, and has a functional mobile navigation menu, among other things. It was an intriguing experience for me because I had to push myself to produce an outstanding work while also meeting the deadline.
+This is a puzzle game that was built with React. You may read the **How to Play** description when the game launches, which will lead you and give you an overview of the game. When a game is paused, you may view a demo of how movements were performed to win the game from the menu modal.
 
 [create react app]: https://create-react-app.dev
 [netlify]: https://www.netlify.com/
